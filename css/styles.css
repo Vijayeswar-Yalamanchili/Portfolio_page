@@ -430,6 +430,15 @@ body.dark-theme{
   text-align: center;
 }
 
+.resume__blob{
+  width: 250px;
+  height: 70px;
+  background-color: var(--container-color);
+  border-radius: 3rem;
+  place-items: center;
+  transition:  .4s;
+}
+
 .skills__blob{
   width: 80px;
   height: 100px;
@@ -443,6 +452,7 @@ body.dark-theme{
 .skills__blob img{
   width: 40px;
 }
+
 
 .skills__name{
   font-size: var(--small-font-size);
