@@ -317,7 +317,7 @@ body.dark-theme{
 
 .home__perfil{
   width: 170px;
-  height: 260px;
+  /* height: 260px; */
   background: linear-gradient(to bottom, #e6e9f0 0%, #eef1f5 100%);
   border-radius: 5.5rem;
   overflow: hidden;
@@ -326,9 +326,9 @@ body.dark-theme{
   align-items: flex-end;
 }
 
-.home__perfil img{
+/* .home__perfil img{
   width: 150px;
-}
+} */
 
 .home__shape-wawes,
 .home__shape-circle{
